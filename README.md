@@ -9,8 +9,10 @@ I'm a 15 years software developer, I'm also experienced in full-stack web develo
 - [YouTube](https://youtube.com/DevDim)
 
 ## Experienced in
-<img src="https://image.flaticon.com/icons/png/512/152/152760.png" width="5px" height="5px">
-![JavaScript](https://cdn.iconscout.com/icon/free/png-512/javascript-2336958-1982839.png) ![PHP](https://cdn.onlinewebfonts.com/svg/img_145824.png) ![Python](https://image.flaticon.com/icons/png/512/1822/1822920.png)
+<img src="https://image.flaticon.com/icons/png/512/152/152760.png" width="30px" height="30px">
+<img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2336958-1982839.png" width="30px" height="30px">
+<img src="https://cdn.onlinewebfonts.com/svg/img_145824.png" width="30px" height="30px">
+<img src="https://image.flaticon.com/icons/png/512/1822/1822920.png" width="30px" height="30px">
 
 ## Github Stats
 ![Overall stats](https://github-readme-stats.vercel.app/api?username=DimBis&theme=cobalt&show_icons=true&count_private=true)
